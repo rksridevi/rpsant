@@ -10,6 +10,7 @@ public class FailMeMaybeTest {
 	public void testMyTrueAssertion() {
 		//change true to false to fail the build
 		Assert.assertTrue(true);
+		System.out.println("hi");
 	}
 	
 }
