@@ -11,6 +11,7 @@ public class FailMeMaybeTest {
 		//change true to false to fail the build
 		Assert.assertTrue(true);
 		System.out.println("hi");
+		System.out.println("hi hi");
 	}
 	
 }
